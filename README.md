@@ -86,4 +86,12 @@ Loader will cause the module build to fail if there are any eslint warnings.
 
 Loader will cause the module build to fail if there are any eslint errors.
 
-## [License](LICENSE)
+
+[npm]: https://img.shields.io/npm/v/babel-plugin-eslint-validation.svg
+[npm-url]: https://npmjs.com/package/babel-plugin-eslint-validation
+
+[node]: https://img.shields.io/node/v/babel-plugin-eslint-validation.svg
+[node-url]: https://nodejs.org
+
+[deps]: https://david-dm.org/paztis/babel-plugin-eslint-validation.svg
+[deps-url]: https://david-dm.org/paztis/babel-plugin-eslint-validation
